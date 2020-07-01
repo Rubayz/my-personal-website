@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight {
+    color: crimson;
+}
+.big {
+    font-size: 50px;
+}
